@@ -1,6 +1,6 @@
 # vcallui
 
-A new Flutter project.
+A new Flutter project to copy video caller ui.
 
 ## Getting Started
 
